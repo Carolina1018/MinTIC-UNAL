@@ -1,1 +1,1 @@
-# MinTIC-UNAL
+# MinTIC 2022 - UNAL
