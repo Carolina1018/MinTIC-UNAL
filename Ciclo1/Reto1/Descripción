@@ -1,0 +1,18 @@
+Reto 1: Grupo P87
+
+Número máximo de ficheros: 1
+Tipo de trabajo: Individual
+
+En la Liga Europea de baloncesto seleccionaron un club llamado "PANDORAS" ya que están en busca de un jugador posición alero ysaber en qué nivel se encuentra un alero llamado Barrero, puesto que para en unas 2 o 3 temporadas
+será un jugador prometedor, esasí que envían un correo electrónico al entrenador solicitando información sobre cuantos puntos en total anotados en la últimatemporada ha realizado sus tres mejores aleros.
+El entrenador responde que tiene tres jugadores llamados Toledo, Norato y Barrero (jugador por el cual están interesados saber en quénivel se encuentra). Posterior a nombrarlos informa el valor de puntos anotados por el primer jugador, luego
+informa que el jugadorNorato ha anotado dos veces el valor del primer jugador más 2 cestas del área de 2 puntos, seguidamente dice que el tercer jugadorBarrero lleva la quinta parte entera del total de puntos anotados del resultado
+de la suma del primer jugador más el total de puntosanotados del segundo jugador. Por último, realiza la verificación de los parámetros para informar en qué nivel se encuentra el jugadorBarrero ya que en el correo comunican que para en caso de que Barrero
+tenga entre 0 puntos anotados y 20 se considera nivel "uno",entre 21 a 30 puntos se considera nivel "dos”, entre 31 a 50 puntos se considera nivel "tres" o si su puntaje es mayor a 50 puntos seconsidera nivel
+"cuatro". Teniendo en cuenta lo informado por el entrenador, ayuda a los miembros de la Liga de Europa de baloncesto saber la cantidad depuntos anotados en la temporada de cada jugador y en que nivel se encuentra el jugador Barrero.
+
+Entrada
+Es un numero entero que representa los puntos anotados del primer jugador
+
+Salida
+Tres números enteros separados por espacio, que representan la cantidad de puntos anotados por cada jugador. En la siguiente línea,en letras, el nivel en el que se encuentra el jugador Barrero.
