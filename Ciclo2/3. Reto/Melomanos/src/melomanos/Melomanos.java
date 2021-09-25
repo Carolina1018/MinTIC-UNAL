@@ -18,9 +18,9 @@ public class Melomanos {
     public static ArrayList<String> lista7 = new ArrayList<>(List.of("A Dios le pido",  "Querida",  "Yolanda",  "Bésame mucho",  "La bamba", "La flaca", "Matador", "Gracias a la vida"));
     
     public static void main(String[] args) {
-        //System.out.println(generos(lista));
-        //System.out.println(albumQueNoTengo(lista2,lista3,nomGenero));
-        //System.out.println(noHeEscuchado(lista4,lista5));
+        System.out.println(generos(lista));
+        System.out.println(albumQueNoTengo(lista2,lista3,nomGenero));
+        System.out.println(noHeEscuchado(lista4,lista5));
         System.out.println(paraIntercambiar(lista6,lista7));
     } 
     
