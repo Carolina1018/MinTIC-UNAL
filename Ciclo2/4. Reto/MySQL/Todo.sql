@@ -219,5 +219,4 @@ where cliente.apellidos like 'Prado' and cliente.nombres like 'Johathan';
 select 'Consulta 5';
 select count(id_factura) from factura
 join empleado
-on factura.id_empleado = empleado.num_cedula
-where nombre like 'José' and apellidos like 'Díaz';
+on factura.id_empleado = empleado.num_cedula and nombre like 'José' and apellidos like 'Díaz';
